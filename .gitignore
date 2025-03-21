@@ -1,0 +1,24 @@
+# Служебные файлы Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+
+# Виртуальные окружения
+.venv/
+venv/
+venv*/
+env/
+env*/
+
+# Служебные файлы PyCharm
+.idea/
+
+# Jupyter Notebook checkpoints (если используете)
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Windows Thumbs
+Thumbs.db
